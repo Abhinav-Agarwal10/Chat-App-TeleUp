@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47728141653",
+    "project_id": "teleup-project",
+    "storage_bucket": "teleup-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47728141653:android:f30ee32cff55a013a63bdc",
+        "android_client_info": {
+          "package_name": "com.trinetra.teleup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47728141653-oda8q6q73iqn4vjptpvb7hoh2qg0h3ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD30_GWn4XTS-mh5VqrzvbT6Sf8AFkjpx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47728141653-oda8q6q73iqn4vjptpvb7hoh2qg0h3ea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
