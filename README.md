@@ -13,13 +13,11 @@ A Chatting application designed with a user friendly interface with many feature
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Abhinav-Agarwal10/Chat-App-TeleUp/blob/master/s1.jpg)
+<img src = "https://github.com/Abhinav-Agarwal10/Chat-App-TeleUp/blob/master/s1.jpg" width=300 height=600>
 
-![App Screenshot](https://github.com/Abhinav-Agarwal10/Chat-App-TeleUp/blob/master/s2.jpg)
+<img src = "https://github.com/Abhinav-Agarwal10/Chat-App-TeleUp/blob/master/s2.jpg" width=300 height=600>
 
-![App Screenshot](https://github.com/Abhinav-Agarwal10/Chat-App-TeleUp/blob/master/s3.jpg)
+<img src = "https://github.com/Abhinav-Agarwal10/Chat-App-TeleUp/blob/master/s3.jpg" width=300 height=600>
 
-![App Screenshot](https://github.com/Abhinav-Agarwal10/Chat-App-TeleUp/blob/master/s4.jpg)
-
-![Logo](https://github.com/Abhinav-Agarwal10/Chat-App-TeleUp/blob/master/app/src/main/ic_launcher-playstore.png)
+<img src = "https://github.com/Abhinav-Agarwal10/Chat-App-TeleUp/blob/master/s4.jpg" width=300 height=600>
 
